@@ -1,4 +1,3 @@
-
 class Heroi {
     String nome;
     int idade;
